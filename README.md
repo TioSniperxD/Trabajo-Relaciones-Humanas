@@ -16,3 +16,33 @@
 12.  Jesús Huertas 
 
 # Quality Assurance
+## 10) Desarrollador Android
+
+- *Descripción del rol*  
+  Encargado de diseñar, desarrollar y mantener aplicaciones móviles para el sistema operativo Android. Esto incluye desde la concepción de la idea hasta la prueba y lanzamiento de la aplicación. Además, debe mantenerse actualizado con las últimas tecnologías y tendencias en desarrollo móvil. Se enfoca en ofrecer experiencias de usuario fluidas, funcionales y alineadas con las directrices de diseño de Android.
+
+- *Habilidades requeridas*
+  - Dominio de Kotlin y/o Java
+  - Conocimiento de Android SDK y Android Studio
+  - Uso de arquitecturas como MVVM o Clean Architecture
+  - Consumo de APIs REST
+  - Manejo de bases de datos locales (Room, SQLite)
+  - Buenas prácticas de UI/UX móvil
+  - Control de versiones (Git)
+  - Pruebas con JUnit y Espresso
+
+- *Relación con otros roles*
+  - *Backend:* integración con servicios y APIs
+  - *Frontend:* consistencia visual con aplicaciones web
+  - *QA:* pruebas funcionales y reporte de errores en dispositivos Android
+
+- *Stack tecnológico*
+  - *Lenguajes*
+    - Kotlin
+    - Java
+  - *Frameworks / Librerías*
+    - Jetpack (Navigation, ViewModel, LiveData, Compose)
+    - Retrofit / Volley
+    - Dagger / Hilt / Koin
+    - Firebase (Auth, Realtime Database, Cloud Messaging)
+    - Coroutines / RxJava
