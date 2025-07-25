@@ -4,7 +4,7 @@
 
 1. Denny Joaquin Mamani Huayhua   
 2. Ana Pamela Miranda Lopinta      
-3. Matias Hernan Chamana Gonzales     
+3. Emerson Jair Paredes Chalco
 4. Jazmin Gonzales Ramirez             
 5. Michael Alexander Vasquez Villarreal
 6. Luis Gerardo Choquepuma villafuerte
@@ -14,4 +14,4 @@
 10. Franklin Ronald Ulloa Chura 
 11. Daniel Adriano Gonzales Trelles 
 12. Jesús Huertas 
-13. Emerson Jair Paredes Chalco 
+13.  Matias Hernan Chamana Gonzales     
