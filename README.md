@@ -14,3 +14,5 @@
 10. Daniel Adriano Gonzales Trelles
 11.  Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
 12.  Jesús Huertas 
+
+# Quality Assurance
