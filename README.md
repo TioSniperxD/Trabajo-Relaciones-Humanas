@@ -2,9 +2,9 @@
 # 📚 Estudio de Roles Básicos en Desarrollo Web y Móvil
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio (*actualizar*)
 
-1. Denny Joaquin Mamani Huayhua   
+1. Denny Joaquin Mamani Huayhua - [dmamanihuayh@unsa.edu.pe](mailto:dmamanihuayh@unsa.edu.pe)
 2. Ana Pamela Miranda Lopinta      
-3. Emerson Jair Paredes Chalco
+3. Emerson Jair Paredes Chalco - [eparedescha@unsa.edu.pe](mailto:eparedescha@unsa.edu.pe)
 4. Jazmin Gonzales Ramirez             
 5. Michael Alexander Vasquez Villarreal
 6. Luis Gerardo Choquepuma villafuerte
