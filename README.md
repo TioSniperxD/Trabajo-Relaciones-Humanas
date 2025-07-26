@@ -13,7 +13,7 @@
 9. Franklin Ronald Ulloa Chura
 10. Daniel Adriano Gonzales Trelles
 11.  Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
-12.  Jesús Huertas 
+12.  Jesús Daniel Huertas Illpa - [jhuertasi@unsa.edu.pe](mailto:jhuertasi@unsa.edu.pe)
 
 
 ## 8) Rol QA
