@@ -181,6 +181,6 @@
    - Clonar repositorio:  
      ```bash
      cd practica
-     git clone 
+     git clone https://github.com/TioSniperxD/Trabajo-Relaciones-Humanas
      cd EstudioRolesBasicos
      ```
