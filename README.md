@@ -15,6 +15,7 @@
 11.  Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
 12.  Jesús Huertas 
 
+
 ## 8) Rol QA
 
 - **Descripción del rol:**  
@@ -35,55 +36,63 @@
   - *Frontend: * colaboran estrechamente para verificar que la interfaz web funcione correctamente, sea coherente con el diseño y funcione bien en lo diferentes navegadores y dispositivos.
   - *Andorid: * se aseguran que las apps funcionen sin errores, haya una buena experiencia para el usuario y se vean bien en los diferentes modelos de teléfonos.
 
-- **Stack tecnológico:**
-  - *Lenguajes:*
-    - Kotlin
-    - Java
-    - Python
-    - JavaScript 
-    - Kotlin
-    - Ruby
-    - C#
+## Stack Tecnológico - QA
 
-  - *Frameworks / Librerías:*
-     *Pruebas automáticas*
-	-*Selenium*
-	Una de las más conocidas. Sirve para automatizar clics, formularios y navegación en páginas web, como si fueras un usuario real.
+### Lenguajes:
+- Kotlin  
+- Java  
+- Python  
+- JavaScript  
+- Ruby  
+- C#  
 
-	-*Cypress*
-	Muy fácil de usar y rápida. Ideal si trabajas con páginas web modernas y quieres detectar errores en la interfaz.
+---
 
-	-*Playwright*
-	Similar a Cypress, pero más completa: te permite probar en diferentes navegadores como Chrome, Firefox o Safari.
+### Frameworks / Librerías
 
-	-*Appium*
-	Perfecta si necesitas probar apps móviles (Android o iPhone) sin tocar el teléfono. Puedes escribir los pasos en lenguajes como Java o Python.
+#### Pruebas Automáticas:
+- **Selenium**  
+  Una de las más conocidas. Sirve para automatizar clics, formularios y navegación en páginas web, como si fueras un usuario real.
 
-	-*Espresso*
-	Es la herramienta oficial de Google para probar cómo se ve y funciona una app Android.
+- **Cypress**  
+  Muy fácil de usar y rápida. Ideal si trabajas con páginas web modernas y quieres detectar errores en la interfaz.
 
-     *Pruebas más pequeñas*
-	-*JUnit*
-	Muy usada en Java para probar partes del código por separado. Ayuda a detectar errores antes de que lleguen al usuario.
+- **Playwright**  
+  Similar a Cypress, pero más completa: te permite probar en diferentes navegadores como Chrome, Firefox o Safari.
 
-	-*TestNG*
-	Como JUnit, pero con más opciones. Ideal para pruebas más complejas.
+- **Appium**  
+  Perfecta si necesitas probar apps móviles (Android o iPhone) sin tocar el teléfono. Puedes escribir los pasos en lenguajes como Java o Python.
 
-	-*PyTest*
-	En Python. Muy fácil de aprender y poderosa para hacer pruebas automáticas.
+- **Espresso**  
+  Es la herramienta oficial de Google para probar cómo se ve y funciona una app Android.
 
-	-*NUnit*
-	Para quienes programan en C#, hace lo mismo que JUnit pero en el mundo .NET.
+---
 
-     *Para probar APIs*
-	-*Postman*
-	Súper útil para enviar y recibir datos de un sistema. Te ayuda a ver si una API responde bien o si hay errores.
+#### Pruebas más pequeñas (unitarias):
+- **JUnit**  
+  Muy usada en Java para probar partes del código por separado. Ayuda a detectar errores antes de que lleguen al usuario.
 
-	-*Rest Assured*
-	Una librería que sirve para automatizar pruebas de APIs usando Java.
+- **TestNG**  
+  Como JUnit, pero con más opciones. Ideal para pruebas más complejas.
 
-	-*SoapUI*
-	Más usada en empresas grandes, permite probar tanto APIs modernas como antiguas (SOAP y REST).
+- **PyTest**  
+  En Python. Muy fácil de aprender y poderosa para hacer pruebas automáticas.
+
+- **NUnit**  
+  Para quienes programan en C#, hace lo mismo que JUnit pero en el mundo .NET.
+
+---
+
+#### Para probar APIs:
+- **Postman**  
+  Súper útil para enviar y recibir datos de un sistema. Te ayuda a ver si una API responde bien o si hay errores.
+
+- **Rest Assured**  
+  Una librería que sirve para automatizar pruebas de APIs usando Java.
+
+- **SoapUI**  
+  Más usada en empresas grandes, permite probar tanto APIs modernas como antiguas (SOAP y REST).
+  
 ## 10) Desarrollador Android
 
 - **Descripción del rol:**  
