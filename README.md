@@ -172,7 +172,7 @@
 
 ## 12) Pasos a desarrollar
 
-1. **Integrante 0** crea repositorio remoto: `EstudioRolesBasicos`  
+1. **Integrante 0** crea repositorio remoto: `Trabajo-Relaciones-Humanas`  
 2. Compartir el repositorio con compañeros:  
    - Ir a Settings ⚙️ > Collaborators  
    - Invitar usando nombre de usuario GitHub o email registrado  
