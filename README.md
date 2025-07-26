@@ -64,9 +64,9 @@
     
       -Traversy Media (HTML, CSS, JS)    
       -Fazt Code (Frontend y frameworks)
+    
       -MiduDev (JavaScript y React)
     
-
 •	**Con certificación**
   - Udemy: Cursos como "The Web Developer Bootcamp"
     https://www.udemy.com/
