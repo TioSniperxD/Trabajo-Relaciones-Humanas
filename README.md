@@ -9,7 +9,7 @@
 5. Jonahtan Joaquin Mamani Gutierrez - [jmamanigut@unsa.edu.pe](mailto:jmamanigut@unsa.edu.pe)
 6. Rodrigo Enrique Neyra Chambilla
 7. Ana Pamela Miranda Lopinta - [amirandalo@unsa.edu.pe](mailto:amirandalo@unsa.edu.pe)
-8. Franklin Ronald Ulloa Chura
+8. Franklin Ronald Ulloa Chura - [fulloac@unsa.edu.pe](mailto:fulloac@unsa.edu.pe)
 9. Daniel Adriano Gonzales Trelles
 10. Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
 11. Jesús Daniel Huertas Illpa - [jhuertasi@unsa.edu.pe](mailto:jhuertasi@unsa.edu.pe)
@@ -138,6 +138,72 @@
     - Postman: Para probar manualmente APIs REST.
     - Rest Assured: Automatiza pruebas de APIs en Java.
     - SoapUI: Permite probar APIs REST y SOAP, común en entornos empresariales.
+## 9) Links recomendados para capacitación Rol Quality Assurance
+
+- **Sin certificaciones**
+- ISTQB Official Glossary: Glosario oficial de términos de testing.
+  https://glossary.istqb.org/
+- Guru99 Testing: Tutoriales completos de testing manual y automatizado.
+  https://www.guru99.com/software-testing.html
+- Software Testing Help: Guías detalladas de QA y metodologías.
+  https://www.softwaretestinghelp.com/
+- Ministry of Testing: Comunidad y recursos gratuitos de testing.
+  https://www.ministryoftesting.com/
+- YouTube (Canales gratis)
+  - SDET- QA Automation Techie (Automation y frameworks)
+  - Software Testing Mentor (Manual testing y career guidance)
+  - Testing World (Selenium, API testing, Mobile testing)
+  - Execute Automation (Selenium, TestNG, Cucumber)
+
+- **Con certificación**
+- Udemy: Cursos como "Selenium WebDriver with Java", "API Testing with Postman".
+  https://www.udemy.com/
+- Coursera: Certificaciones de Google IT Support y IBM DevOps.
+  https://www.coursera.org/
+- Pluralsight: Cursos avanzados de automated testing y DevOps.
+  https://www.pluralsight.com/
+- Test Automation University: Cursos gratuitos con certificación de Applitools.
+  https://testautomationu.applitools.com/
+- QA Academy: Bootcamps especializados en QA manual y automation.
+  https://qa-academy.com/
+
+- **Proyectos completos de ejemplo**
+- Selenium Easy: Práctica con diferentes elementos web.
+  https://www.seleniumeasy.com/test/
+- The Internet (Herokuapp): Sandbox para practicar automation.
+  https://the-internet.herokuapp.com/
+- Parabank: Aplicación de prueba para testing funcional.
+  https://parabank.parasoft.com/parabank/index.htm
+- JSONPlaceholder: API falsa para practicar API testing.
+  https://jsonplaceholder.typicode.com/
+- Swagger Petstore: API demo para testing de servicios REST.
+  https://petstore.swagger.io/
+- GitHub Awesome Testing: Repositorios con frameworks y herramientas.
+  https://github.com/TheJambo/awesome-testing
+
+- **Recomendadas por líderes tecnológicos**
+- Google Testing Blog: Mejores prácticas y tendencias en testing.
+  https://testing.googleblog.com/
+- Microsoft Testing Guidelines: Documentación oficial de testing.
+  https://docs.microsoft.com/en-us/azure/devops/test/
+- AWS Testing Tools: Herramientas y servicios para QA en la nube.
+  https://aws.amazon.com/products/developer-tools/
+- Atlassian Testing: Guías de testing integrado con Jira y Confluence.
+  https://www.atlassian.com/software/jira/guides/expand-jira/testing
+- SmartBear Academy: Recursos educativos de herramientas como TestComplete.
+  https://smartbear.com/learn/
+
+- **Herramientas específicas para practicar**
+- Postman Learning Center: API testing y automation.
+  https://learning.postman.com/
+- Cypress Documentation: Modern web testing framework.
+  https://docs.cypress.io/
+- Playwright Documentation: Cross-browser automation.
+  https://playwright.dev/
+- Robot Framework: Test automation para acceptance.
+  testing https://robotframework.org/
+- JMeter Documentation: Performance testing.
+  https://jmeter.apache.org/usermanual/index.html
   
 ## 10) Desarrollador Android
 
