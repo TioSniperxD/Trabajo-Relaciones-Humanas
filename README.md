@@ -184,3 +184,6 @@
      git clone https://github.com/TioSniperxD/Trabajo-Relaciones-Humanas
      cd EstudioRolesBasicos
      ```
+   - Ver contenido con `dir` (Windows) o `ls` (Linux/Mac)
+ejemplo de link
+
