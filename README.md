@@ -8,7 +8,7 @@
 4. Jazmin Gonzales Ramirez
 5. Jonahtan Joaquin Mamani Gutierrez - [jmamanigut@unsa.edu.pe](mailto:jmamanigut@unsa.edu.pe)
 6. Rodrigo Enrique Neyra Chambilla
-7. Ana Pamela Miranda Lopinta
+7. Ana Pamela Miranda Lopinta - [amirandalo@unsa.edu.pe](mailto:amirandalo@unsa.edu.pe)
 8. Franklin Ronald Ulloa Chura
 9. Daniel Adriano Gonzales Trelles
 10. Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
