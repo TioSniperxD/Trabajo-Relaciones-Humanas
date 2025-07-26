@@ -52,6 +52,48 @@
     - Zustand
     - Pinia
 
+## 5) Links recomendados para capacitación Rol Frontend
+• **Sin certificaciones**
+	- MDN Web Docs: Documentación oficial de HTML, CSS, 
+    https://developer.mozilla.org/ 
+  - JavaScript.info: Guía moderna de JavaScript
+    https://javascript.info/
+  - CSS-Tricks: Tutoriales avanzados de CSS y diseño
+    https://css-tricks.com/
+  - YouTube (Canales gratis)
+      Traversy Media (HTML, CSS, JS)
+      Fazt Code (Frontend y frameworks)
+      MiduDev (JavaScript y React)
+
+•	**Con certificación**
+  - Udemy: Cursos como "The Web Developer Bootcamp"
+    https://www.udemy.com/
+  - Platzi: Cursos completos de Frontend (JavaScript, React, etc.).
+    https://platzi.com/
+  - Frontend Masters: Cursos avanzados de JavaScript, React, CSS.
+    https://frontendmasters.com/
+  - Codecademy: Cursos interactivos de Frontend.
+    https://www.codecademy.com/
+
+• **Proyectos completos de ejemplo**
+	- The Odin Project:
+    https://www.theodinproject.com/ 
+  - Frontend Practice: 
+    https://www.frontendpractice.com/
+  - CodeSandbox Templates: 
+    https://codesandbox.io/search?query=&page=1
+  - GitHub "Real World" Apps:
+    https://github.com/gothinkster/realworld
+
+• **Recomendadas por líderes tecnológicos**
+	- Microsoft Learn (Frontend Path): 
+    https://learn.microsoft.com/en-us/training/browse/?terms=frontend 
+  - Google Web Fundamentals: 
+    https://web.dev/learn/
+  - AWS Amplify (Frontend Hosting): 
+    https://aws.amazon.com/amplify/ 
+
+
 ## 8) Rol QA
 
 - **Descripción del rol:**  
