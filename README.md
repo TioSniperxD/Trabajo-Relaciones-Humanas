@@ -93,7 +93,38 @@
     https://web.dev/learn/
   - AWS Amplify (Frontend Hosting): 
     https://aws.amazon.com/amplify/ 
+## 5) Desarrollador Backend
 
+  ## Descripción del rol:
+  -El backend se encarga de la lógica interna de las aplicaciones, la gestión de datos, seguridad, autenticación, almacenamiento y procesamiento en     servidores. Aunque el usuario no lo ve directamente, el backend hace posible que las funcionalidades del frontend funcionen correctamente. En esencia, el backend construye la parte "invisible" pero esencial del sistema, asegurando que todo funcione de forma eficiente, segura y escalable.
+
+  ## Habilidades requeridas:
+
+  -Dominio de lenguajes como Python, Java, Node.js, Ruby, Go o PHP.
+
+  -Manejo de bases de datos relacionales (MySQL, PostgreSQL) y no relacionales (MongoDB, Redis).
+
+  -Diseño y desarrollo de APIs REST y/o GraphQL.
+
+  -Conocimiento en autenticación/autorización (OAuth, JWT, sesiones).
+
+  -Buen manejo de estructuras de datos y algoritmos.
+
+  -Experiencia con servidores, contenedores (Docker) y despliegue en la nube (AWS, Azure, GCP).
+
+  -Uso de control de versiones como Git.
+
+  -Pruebas automatizadas: unitarias e integración (Postman, Jest, Mocha, etc.).
+
+  ## Relación con otros roles:
+
+-Frontend: el backend proporciona al frontend los datos necesarios a través de APIs. Ambos roles deben ponerse de acuerdo en el formato de los datos, los endpoints disponibles y cómo manejar posibles errores. La buena comunicación asegura que el producto funcione como una unidad coherente.
+
+-Base de datos/DBA: trabajan estrechamente para diseñar, optimizar y mantener estructuras de datos eficientes, asegurando que las consultas sean rápidas y la información se almacene de forma segura y escalable.
+
+-QA: el equipo de calidad también prueba la lógica del backend, asegurando que los endpoints funcionen correctamente, que las reglas de negocio se respeten, y que no existan errores lógicos o de seguridad.
+
+-DevOps: colaboran para automatizar procesos de desarrollo, pruebas, integración y despliegue continuo. El backend se apoya en DevOps para asegurar que los servicios se ejecuten correctamente en producción.
 
 ## 8) Rol QA
 
