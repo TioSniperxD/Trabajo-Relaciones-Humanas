@@ -6,7 +6,7 @@
 2. Luis Gerardo Choquepuma villafuerte
 3. Denny Joaquin Mamani Huayhua - [dmamanihuayh@unsa.edu.pe](mailto:dmamanihuayh@unsa.edu.pe)
 4. Jazmin Gonzales Ramirez
-5. Jonahtan Joaquin Mamani Gutierrez
+5. Jonahtan Joaquin Mamani Gutierrez - [jmamanigut@unsa.edu.pe](mailto:jmamanigut@unsa.edu.pe)
 6. Rodrigo Enrique Neyra Chambilla
 7. Luis Gerardo Choquepuma villafuerte
 8. Ana Pamela Miranda Lopinta
@@ -53,8 +53,8 @@
     - Pinia
 
 ## 5) Links recomendados para capacitación Rol Frontend
-• **Sin certificaciones**
-	- MDN Web Docs: Documentación oficial de HTML, CSS, 
+• 	**Sin certificaciones**
+  - MDN Web Docs: Documentación oficial de HTML, CSS, 
     https://developer.mozilla.org/ 
   - JavaScript.info: Guía moderna de JavaScript
     https://javascript.info/
@@ -75,8 +75,8 @@
   - Codecademy: Cursos interactivos de Frontend.
     https://www.codecademy.com/
 
-• **Proyectos completos de ejemplo**
-	- The Odin Project:
+• 	**Proyectos completos de ejemplo**
+  - The Odin Project:
     https://www.theodinproject.com/ 
   - Frontend Practice: 
     https://www.frontendpractice.com/
@@ -85,8 +85,8 @@
   - GitHub "Real World" Apps:
     https://github.com/gothinkster/realworld
 
-• **Recomendadas por líderes tecnológicos**
-	- Microsoft Learn (Frontend Path): 
+• 	**Recomendadas por líderes tecnológicos**
+  - Microsoft Learn (Frontend Path): 
     https://learn.microsoft.com/en-us/training/browse/?terms=frontend 
   - Google Web Fundamentals: 
     https://web.dev/learn/
