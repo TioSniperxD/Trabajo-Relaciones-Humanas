@@ -8,13 +8,13 @@
 4. Jazmin Gonzales Ramirez - [jgonzalesra@unsa.edu.pe](mailto:jgonzalesra@unsa.edu.pe)
 5. Jonahtan Joaquin Mamani Gutierrez - [jmamanigut@unsa.edu.pe](mailto:jmamanigut@unsa.edu.pe)
 6. Rodrigo Enrique Neyra Chambilla
-7. Jeanpiere Mamani Nuñez
+7. Jeanpiere Mamani Nuñez - [jmamaninu@unsa.edu.pe](mailto:jmamaninu@unsa.edu.pe)
 8. Ana Pamela Miranda Lopinta - [amirandalo@unsa.edu.pe](mailto:amirandalo@unsa.edu.pe)
 9. Franklin Ronald Ulloa Chura - [fulloac@unsa.edu.pe](mailto:fulloac@unsa.edu.pe)
 10. Daniel Adriano Gonzales Trelles
 11. Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
 12. Jesús Daniel Huertas Illpa - [jhuertasi@unsa.edu.pe](mailto:jhuertasi@unsa.edu.pe)
-13. Jeanpiere Mamani Nuñez - [jmamaninu@unsa.edu.pe](mailto:jmamaninu@unsa.edu.pe)
+
 
 
 ## 4) Desarrollador Frontend
