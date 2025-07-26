@@ -62,8 +62,11 @@
     https://css-tricks.com/
   - YouTube (Canales gratis)
       Traversy Media (HTML, CSS, JS)
+    
       Fazt Code (Frontend y frameworks)
+    
       MiduDev (JavaScript y React)
+    
 
 •	**Con certificación**
   - Udemy: Cursos como "The Web Developer Bootcamp"
