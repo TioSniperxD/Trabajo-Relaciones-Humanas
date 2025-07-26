@@ -141,30 +141,30 @@
 ## 9) Links recomendados para capacitación Rol Quality Assurance
 
 - **Sin certificaciones**
-- ISTQB Official Glossary: Glosario oficial de términos de testing.
+  - ISTQB Official Glossary: Glosario oficial de términos de testing.
   https://glossary.istqb.org/
-- Guru99 Testing: Tutoriales completos de testing manual y automatizado.
+  - Guru99 Testing: Tutoriales completos de testing manual y automatizado.
   https://www.guru99.com/software-testing.html
-- Software Testing Help: Guías detalladas de QA y metodologías.
+  - Software Testing Help: Guías detalladas de QA y metodologías.
   https://www.softwaretestinghelp.com/
-- Ministry of Testing: Comunidad y recursos gratuitos de testing.
+  - Ministry of Testing: Comunidad y recursos gratuitos de testing.
   https://www.ministryoftesting.com/
-- YouTube (Canales gratis)
-  - SDET- QA Automation Techie (Automation y frameworks)
-  - Software Testing Mentor (Manual testing y career guidance)
-  - Testing World (Selenium, API testing, Mobile testing)
-  - Execute Automation (Selenium, TestNG, Cucumber)
+  - YouTube (Canales gratis)
+    - SDET- QA Automation Techie (Automation y frameworks)
+    - Software Testing Mentor (Manual testing y career guidance)
+    - Testing World (Selenium, API testing, Mobile testing)
+    - Execute Automation (Selenium, TestNG, Cucumber)
 
 - **Con certificación**
-- Udemy: Cursos como "Selenium WebDriver with Java", "API Testing with Postman".
+  - Udemy: Cursos como "Selenium WebDriver with Java", "API Testing with Postman".
   https://www.udemy.com/
-- Coursera: Certificaciones de Google IT Support y IBM DevOps.
+  - Coursera: Certificaciones de Google IT Support y IBM DevOps.
   https://www.coursera.org/
-- Pluralsight: Cursos avanzados de automated testing y DevOps.
+  - Pluralsight: Cursos avanzados de automated testing y DevOps.
   https://www.pluralsight.com/
-- Test Automation University: Cursos gratuitos con certificación de Applitools.
+  - Test Automation University: Cursos gratuitos con certificación de Applitools.
   https://testautomationu.applitools.com/
-- QA Academy: Bootcamps especializados en QA manual y automation.
+  - QA Academy: Bootcamps especializados en QA manual y automation.
   https://qa-academy.com/
 
 - **Proyectos completos de ejemplo**
