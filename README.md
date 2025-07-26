@@ -168,41 +168,41 @@
   https://qa-academy.com/
 
 - **Proyectos completos de ejemplo**
-- Selenium Easy: Práctica con diferentes elementos web.
+  - Selenium Easy: Práctica con diferentes elementos web.
   https://www.seleniumeasy.com/test/
-- The Internet (Herokuapp): Sandbox para practicar automation.
+  - The Internet (Herokuapp): Sandbox para practicar automation.
   https://the-internet.herokuapp.com/
-- Parabank: Aplicación de prueba para testing funcional.
+  - Parabank: Aplicación de prueba para testing funcional.
   https://parabank.parasoft.com/parabank/index.htm
-- JSONPlaceholder: API falsa para practicar API testing.
+  - JSONPlaceholder: API falsa para practicar API testing.
   https://jsonplaceholder.typicode.com/
-- Swagger Petstore: API demo para testing de servicios REST.
+  - Swagger Petstore: API demo para testing de servicios REST.
   https://petstore.swagger.io/
-- GitHub Awesome Testing: Repositorios con frameworks y herramientas.
+  - GitHub Awesome Testing: Repositorios con frameworks y herramientas.
   https://github.com/TheJambo/awesome-testing
 
 - **Recomendadas por líderes tecnológicos**
-- Google Testing Blog: Mejores prácticas y tendencias en testing.
+  - Google Testing Blog: Mejores prácticas y tendencias en testing.
   https://testing.googleblog.com/
-- Microsoft Testing Guidelines: Documentación oficial de testing.
+  - Microsoft Testing Guidelines: Documentación oficial de testing.
   https://docs.microsoft.com/en-us/azure/devops/test/
-- AWS Testing Tools: Herramientas y servicios para QA en la nube.
+  - AWS Testing Tools: Herramientas y servicios para QA en la nube.
   https://aws.amazon.com/products/developer-tools/
-- Atlassian Testing: Guías de testing integrado con Jira y Confluence.
+  - Atlassian Testing: Guías de testing integrado con Jira y Confluence.
   https://www.atlassian.com/software/jira/guides/expand-jira/testing
-- SmartBear Academy: Recursos educativos de herramientas como TestComplete.
+  - SmartBear Academy: Recursos educativos de herramientas como TestComplete.
   https://smartbear.com/learn/
 
 - **Herramientas específicas para practicar**
-- Postman Learning Center: API testing y automation.
+  - Postman Learning Center: API testing y automation.
   https://learning.postman.com/
-- Cypress Documentation: Modern web testing framework.
+  - Cypress Documentation: Modern web testing framework.
   https://docs.cypress.io/
-- Playwright Documentation: Cross-browser automation.
+  - Playwright Documentation: Cross-browser automation.
   https://playwright.dev/
-- Robot Framework: Test automation para acceptance.
+  - Robot Framework: Test automation para acceptance.
   testing https://robotframework.org/
-- JMeter Documentation: Performance testing.
+  - JMeter Documentation: Performance testing.
   https://jmeter.apache.org/usermanual/index.html
   
 ## 10) Desarrollador Android
