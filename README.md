@@ -2,7 +2,7 @@
 # 📚 Estudio de Roles Básicos en Desarrollo Web y Móvil
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio (*actualizar*)
 0. Emerson Jair Paredes Chalco - [eparedescha@unsa.edu.pe](mailto:eparedescha@unsa.edu.pe)
-1. Michael Alexander Vasquez Villarreal
+1. Michael Alexander Vasquez Villarreal - [mvasquezvil@unsa.edu.pe](mailto:mvasquezvil@unsa.edu.pe)
 2. Luis Gerardo Choquepuma villafuerte
 3. Denny Joaquin Mamani Huayhua - [dmamanihuayh@unsa.edu.pe](mailto:dmamanihuayh@unsa.edu.pe)
 4. Jazmin Gonzales Ramirez
