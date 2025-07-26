@@ -61,6 +61,7 @@
   - CSS-Tricks: Tutoriales avanzados de CSS y diseño
     https://css-tricks.com/
   - YouTube (Canales gratis)
+    
       -Traversy Media (HTML, CSS, JS)    
       -Fazt Code (Frontend y frameworks)
       -MiduDev (JavaScript y React)
