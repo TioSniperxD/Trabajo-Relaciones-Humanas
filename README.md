@@ -32,8 +32,8 @@
 
 - **Relación con otros roles:**
   - *Backend:* se comunican a través de APIs, donde el frontend puede solicitar al backend alguna lista de productos o alguna comfirmación para guardar información de un usuario, para asegurar una comunicación fluida ambos definen que datos intercambiarán, en que formato y que errores pueden ocurrir.
-  - *QA: * colaboran para probar funcionalidades, teniendo como objetivo la calidad del producto, QA verifica si lo construido por el frontend cumple con los requisitos, funcione como se espera e identifica errores visuales o lógicos.
-  - *Andorid: * ambos tienen un enfoque hacia la interfaz de usuario, pero su relación se intensifica cuando ambos deciden especializarse en el ámbito multiplataforma para Android(y iOs) ya que comparten el mismo framework base, reultilizan código y lógica.
+  - *QA:* colaboran para probar funcionalidades, teniendo como objetivo la calidad del producto, QA verifica si lo construido por el frontend cumple con los requisitos, funcione como se espera e identifica errores visuales o lógicos.
+  - *Andorid:* ambos tienen un enfoque hacia la interfaz de usuario, pero su relación se intensifica cuando ambos deciden especializarse en el ámbito multiplataforma para Android(y iOs) ya que comparten el mismo framework base, reultilizan código y lógica.
 
 - **Stack tecnológico:**
   - *Lenguajes:*
