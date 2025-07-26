@@ -8,13 +8,12 @@
 4. Jazmin Gonzales Ramirez
 5. Jonahtan Joaquin Mamani Gutierrez - [jmamanigut@unsa.edu.pe](mailto:jmamanigut@unsa.edu.pe)
 6. Rodrigo Enrique Neyra Chambilla
-7. Luis Gerardo Choquepuma villafuerte
-8. Ana Pamela Miranda Lopinta
-9. Franklin Ronald Ulloa Chura
-10. Daniel Adriano Gonzales Trelles
-11.  Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
-12.  Jesús Daniel Huertas Illpa - [jhuertasi@unsa.edu.pe](mailto:jhuertasi@unsa.edu.pe)
-13.  Jeanpiere Mamani Nuñez - [jmamaninu@unsa.edu.pe](mailto:jmamaninu@unsa.edu.pe)
+7. Ana Pamela Miranda Lopinta
+8. Franklin Ronald Ulloa Chura
+9. Daniel Adriano Gonzales Trelles
+10. Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
+11. Jesús Daniel Huertas Illpa - [jhuertasi@unsa.edu.pe](mailto:jhuertasi@unsa.edu.pe)
+12. Jeanpiere Mamani Nuñez - [jmamaninu@unsa.edu.pe](mailto:jmamaninu@unsa.edu.pe)
 
 
 ## 4) Desarrollador Frontend
@@ -170,3 +169,7 @@
     - Dagger / Hilt / Koin
     - Firebase (Auth, Realtime Database, Cloud Messaging)
     - Coroutines / RxJava
+
+## 12) Pasos a desarrollar
+
+-
