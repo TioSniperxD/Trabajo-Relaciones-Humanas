@@ -172,4 +172,15 @@
 
 ## 12) Pasos a desarrollar
 
--
+1. **Integrante 0** crea repositorio remoto: `EstudioRolesBasicos`  
+2. Compartir el repositorio con compañeros:  
+   - Ir a Settings ⚙️ > Collaborators  
+   - Invitar usando nombre de usuario GitHub o email registrado  
+3. **Compañeros invitados**:  
+   - Recibirán invitación por email  
+   - Clonar repositorio:  
+     ```bash
+     cd practica
+     git clone 
+     cd EstudioRolesBasicos
+     ```
