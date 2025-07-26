@@ -47,42 +47,42 @@
 
   - *Frameworks / Librerías:*
      *Pruebas automáticas*
-	*Selenium*
+	-*Selenium*
 	Una de las más conocidas. Sirve para automatizar clics, formularios y navegación en páginas web, como si fueras un usuario real.
 
-	*Cypress*
+	-*Cypress*
 	Muy fácil de usar y rápida. Ideal si trabajas con páginas web modernas y quieres detectar errores en la interfaz.
 
-	*Playwright*
+	-*Playwright*
 	Similar a Cypress, pero más completa: te permite probar en diferentes navegadores como Chrome, Firefox o Safari.
 
-	*Appium*
+	-*Appium*
 	Perfecta si necesitas probar apps móviles (Android o iPhone) sin tocar el teléfono. Puedes escribir los pasos en lenguajes como Java o Python.
 
-	*Espresso*
+	-*Espresso*
 	Es la herramienta oficial de Google para probar cómo se ve y funciona una app Android.
 
      *Pruebas más pequeñas*
-	*JUnit*
+	-*JUnit*
 	Muy usada en Java para probar partes del código por separado. Ayuda a detectar errores antes de que lleguen al usuario.
 
-	*TestNG*
+	-*TestNG*
 	Como JUnit, pero con más opciones. Ideal para pruebas más complejas.
 
-	*PyTest*
+	-*PyTest*
 	En Python. Muy fácil de aprender y poderosa para hacer pruebas automáticas.
 
-	*NUnit*
+	-*NUnit*
 	Para quienes programan en C#, hace lo mismo que JUnit pero en el mundo .NET.
 
      *Para probar APIs*
-	*Postman*
+	-*Postman*
 	Súper útil para enviar y recibir datos de un sistema. Te ayuda a ver si una API responde bien o si hay errores.
 
-	*Rest Assured*
+	-*Rest Assured*
 	Una librería que sirve para automatizar pruebas de APIs usando Java.
 
-	*SoapUI*
+	-*SoapUI*
 	Más usada en empresas grandes, permite probar tanto APIs modernas como antiguas (SOAP y REST).
 ## 10) Desarrollador Android
 
