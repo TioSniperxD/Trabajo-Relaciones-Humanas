@@ -5,7 +5,7 @@
 1. Michael Alexander Vasquez Villarreal - [mvasquezvil@unsa.edu.pe](mailto:mvasquezvil@unsa.edu.pe)
 2. Luis Gerardo Choquepuma villafuerte
 3. Denny Joaquin Mamani Huayhua - [dmamanihuayh@unsa.edu.pe](mailto:dmamanihuayh@unsa.edu.pe)
-4. Jazmin Gonzales Ramirez
+4. Jazmin Gonzales Ramirez - [jgonzalesra@unsa.edu.pe](mailto:jgonzalesra@unsa.edu.pe)
 5. Jonahtan Joaquin Mamani Gutierrez - [jmamanigut@unsa.edu.pe](mailto:jmamanigut@unsa.edu.pe)
 6. Rodrigo Enrique Neyra Chambilla
 7. Ana Pamela Miranda Lopinta - [amirandalo@unsa.edu.pe](mailto:amirandalo@unsa.edu.pe)
