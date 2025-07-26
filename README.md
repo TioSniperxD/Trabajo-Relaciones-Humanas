@@ -93,7 +93,7 @@
     https://web.dev/learn/
   - AWS Amplify (Frontend Hosting): 
     https://aws.amazon.com/amplify/ 
-## 5) Desarrollador Backend
+## 6) Desarrollador Backend
 
   ## Descripción del rol:
   -El backend se encarga de la lógica interna de las aplicaciones, la gestión de datos, seguridad, autenticación, almacenamiento y procesamiento en     servidores. Aunque el usuario no lo ve directamente, el backend hace posible que las funcionalidades del frontend funcionen correctamente. En esencia, el backend construye la parte "invisible" pero esencial del sistema, asegurando que todo funcione de forma eficiente, segura y escalable.
