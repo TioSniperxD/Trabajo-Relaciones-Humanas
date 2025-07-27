@@ -133,7 +133,7 @@ En que nos puede ayudar?
 
 -DevOps: colaboran para automatizar procesos de desarrollo, pruebas, integración y despliegue continuo. El backend se apoya en DevOps para asegurar que los servicios se ejecuten correctamente en producción.
 
-## 11)Links recomendados para capacitación Rol Backend
+## 7)Links recomendados para capacitación Rol Backend
 - **Sin certificaciones**:  
   - Backend Development Roadmap
     https://roadmap.sh/backend
