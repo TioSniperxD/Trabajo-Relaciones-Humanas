@@ -7,11 +7,11 @@
 3. Denny Joaquin Mamani Huayhua - [dmamanihuayh@unsa.edu.pe](dmamanihuayh@unsa.edu.pe)
 4. Jazmin Gonzales Ramirez - [jgonzalesra@unsa.edu.pe](mailto:jgonzalesra@unsa.edu.pe)
 5. Jonahtan Joaquin Mamani Gutierrez - [jmamanigut@unsa.edu.pe](mailto:jmamanigut@unsa.edu.pe)
-6. Rodrigo Enrique Neyra Chambilla
+6. Rodrigo Enrique Neyra Chambilla - [rneyra@unsa.edu.pe](mailto:rneyra@unsa.edu.pe)
 7. Jeanpiere Mamani Nuñez - [jmamaninu@unsa.edu.pe](mailto:jmamaninu@unsa.edu.pe)
 8. Ana Pamela Miranda Lopinta - [amirandalo@unsa.edu.pe](mailto:amirandalo@unsa.edu.pe)
 9. Franklin Ronald Ulloa Chura - [fulloac@unsa.edu.pe](mailto:fulloac@unsa.edu.pe)
-10. Daniel Adriano Gonzales Trelles - [dgonzalestrelles@gmail.com ](mailto:dgonzalestrelles@gmail.com )
+10. Daniel Adriano Gonzales Trelles - [dgonzalestr@unsa.edu.pe](mailto:dgonzalestr@unsa.edu.pe )
 11. Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
 12. Jesús Daniel Huertas Illpa - [jhuertasi@unsa.edu.pe](mailto:jhuertasi@unsa.edu.pe)
 
