@@ -548,3 +548,6 @@ flowchart LR
   READMEs, documentación, wikis, notas simples.  
 - **Usa Mermaid** para:  
   Diagramas técnicos, arquitectura, flujos de trabajo.  
+
+### Mermaid de las diapositivas de los roles
+A continuación, el [enlace al diagrama en Mermaid](https://acortar.link/PAjA5S).
