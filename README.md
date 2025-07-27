@@ -133,6 +133,45 @@ En que nos puede ayudar?
 
 -DevOps: colaboran para automatizar procesos de desarrollo, pruebas, integración y despliegue continuo. El backend se apoya en DevOps para asegurar que los servicios se ejecuten correctamente en producción.
 
+## 11)Links recomendados para capacitación Rol Backend
+- **Sin certificaciones**:  
+  - Backend Development Roadmap
+    https://roadmap.sh/backend
+  - The Odin Project
+    https://www.theodinproject.com/paths/full-stack-javascript
+  - Full Course – Backend Development with Node.js (freeCodeCamp)
+    https://www.youtube.com/watch?v=Oe421EPjeBE
+  - edX – Cursos en español sobre backend
+    https://www.edx.org/es/aprende/backend?utm_source=chatgpt.com
+- **Con certificación:**
+  - Coursera – Meta Back-End Developer Professional Certificat
+    https://www.coursera.org/professional-certificates/meta-back-end-developer
+  - edX – Backend Web Development Certificate (University of California)
+    https://www.edx.org/professional-certificate/ucsd-back-end-web-development
+  - Cursa.app (gratuito + certificado digital)
+    https://cursa.app/curso-desarrollo-backend-online-gratis?utm_source=chatgpt.com
+  - Udacity – Backend Developer Nanodegree
+    https://www.udacity.com/course/backend-web-developer-nanodegree--nd257
+- **Proyectos completos de ejemplo:**
+  - GitHub - Node.js Example Project
+    https://github.com/nodejs/examples
+  - Awesome Backend Projects
+    https://github.com/sdmg15/Best-websites-a-programmer-should-visit#back-end
+  - Meta Certificate Projects (Coursera)
+    https://codigofacilito.com/cursos?search%5Bcategories%5D%5B%5D=6
+  - Spring PetClinic (Java backend example)
+    https://github.com/spring-projects/spring-petclinic
+- **Recomendadas por líderes (Google, Microsoft, AWS)**
+  - Google Cloud – Backend Tutorial
+    https://cloud.google.com/solutions/web-app-backend
+  - Microsoft Learn – Build Web APIs with .NET
+    https://learn.microsoft.com/en-us/training/paths/build-web-api-dotnet/
+  - AWS – Backend Web & Mobile Apps with Amplify
+    https://aws.amazon.com/amplify/backend/
+  - CodiHouse – Curso de Programación Backend I (América Latina)
+    http://coderhouse.com/pe/cursos/programacion-backend-desarrollo-avanzado-de-backend?utm_source=chatgpt.com
+
+
 ## 8) Rol QA
 
 - **Descripción del rol:**  
