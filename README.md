@@ -15,6 +15,47 @@
 11. Matias Hernan Chamana Gonzales - [mchamanag@unsa.edu.pe](mailto:mchamanag@unsa.edu.pe)
 12. Jesús Daniel Huertas Illpa - [jhuertasi@unsa.edu.pe](mailto:jhuertasi@unsa.edu.pe)
 
+## 1) Conceptos Generales para Tener en Cuenta
+
+Al comenzar un proyecto de desarrollo de software, es fundamental tener claros algunos conceptos generales que nos permitirán organizarnos, comunicarnos y trabajar eficientemente como equipo. Aquí algunos de los más importantes:
+
+
+-**1.1 Repositorio:**
+
+Es un espacio donde se guarda el código del proyecto. Puede estar en tu máquina local o en una plataforma como GitHub. Permite llevar control de versiones y trabajar en equipo.
+
+
+-**1.2 Control de versiones (Versionamiento):**
+
+Es el proceso de llevar un registro de los cambios realizados en los archivos de código a lo largo del tiempo. Git es una de las herramientas más populares para esto.
+
+
+-**1.3 Branches (Ramas):**
+
+Son copias del proyecto principal donde se pueden hacer cambios sin afectar el código base. Ideal para que cada integrante trabaje sin interferencias.
+
+
+-**1.4 Commit:**
+
+Es un registro de los cambios realizados en el proyecto. Cada commit debe tener un mensaje claro que explique qué se modificó.
+
+
+-**1.5 Push y Pull:**
+
+	•	Push: Enviar tus cambios al repositorio remoto (GitHub).
+	•	Pull: Traer los últimos cambios del repositorio remoto a tu computadora.
+
+
+-**1.6 README.md:**
+
+Es un archivo que describe de qué trata el proyecto, cómo usarlo, y quiénes lo desarrollan. Es lo primero que otros ven al entrar al repositorio.
+
+
+-**1.7 Comunicación:**
+
+Es esencial definir canales claros (como WhatsApp, Discord o Slack) y reuniones cortas para revisar avances y resolver dudas.
+
+
 ## 2)Conociendo Git 
 Git es un sistema de control de versiones distribuido que permite gestionar cambios en archivos, guardar el historial del proyecto y trabajar de forma colaborativa sin perder información.
 En que nos puede ayudar?
