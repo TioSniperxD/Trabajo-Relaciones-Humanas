@@ -274,6 +274,48 @@ En que nos puede ayudar?
     - Dagger / Hilt / Koin
     - Firebase (Auth, Realtime Database, Cloud Messaging)
     - Coroutines / RxJava
+  
+## 11)Links recomendados para capacitación Rol Android
+- **Sin certificaciones**:  
+    - Android Developers - Training (Google)
+    https://developer.android.com/training
+    - Android Basics in Kotlin (Google)
+    https://developer.android.com/courses/android-basics-kotlin/course
+    - Jetpack Compose Pathway (UI moderna)
+    https://developer.android.com/jetpack/compose/tutorial
+    - freeCodeCamp – Android App Development (YouTube)
+    https://www.youtube.com/watch?v=BBWyXo-3JGQ
+- **Con certificación**:  
+    - Google - Android Developer Certification
+    https://developers.google.com/certification/associate-android-developer
+    - Coursera – Meta Android Developer Professional Certificate
+    https://www.coursera.org/professional-certificates/meta-android-developer
+    - Udacity – Android Developer Nanodegree (Google co-created)
+    https://www.udacity.com/course/android-developer-nanodegree--nd801
+    - edX – Professional Certificate in Android App Development (Google)
+    https://www.edx.org/professional-certificate/google-android-app-development
+- **Proyectos completos de ejemplo**:  
+    - GitHub - Android Sample Projects (Google repos)
+    https://github.com/android
+    - Awesome Android Open Source Apps (Lista curada)
+    https://github.com/Mybridge/awesome-android
+    - Jetpack Compose Sample Apps (GitHub)
+    https://github.com/android/compose-samples
+    - AndroidSunflower – App de muestra oficial por Google
+    https://github.com/android/sunflower
+- **Recomendadas por líderes (Microsoft, AWS, Google)
+    - Sitio oficial de Android Developers
+    https://developer.android.com
+    - Android Codelabs (tutoriales prácticos)
+    https://developer.android.com/codelabs
+    - Curso oficial: Crear apps Android con Kotlin + Azure
+    https://learn.microsoft.com/en-us/training/paths/build-android-apps-kotlin/
+    - Desarrollo Android con Xamarin (C#)
+    https://learn.microsoft.com/en-us/xamarin/android/
+    - Documentación: AWS Amplify para Android
+    https://docs.amplify.aws/lib/q/platform/android/
+    - Tutorial oficial: Construye una app Android serverless con Amplify
+    https://aws.amazon.com/getting-started/hands-on/build-serverless-android-app-amplify/
 
 ## 12) Pasos a desarrollar
 
