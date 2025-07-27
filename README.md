@@ -61,7 +61,7 @@ Git es un sistema de control de versiones distribuido que permite gestionar camb
 
 **¿En que nos puede ayudar?**
 
-1. **Control de versiones**Permite registrar y volver a versiones anteriores del proyecto.
+1. **Control de versiones:** Permite registrar y volver a versiones anteriores del proyecto.
 2. **Trabajo en equipo:** Varios desarrolladores pueden colaborar en el mismo proyecto sin sobrescribir el trabajo de otros.
 3. **Ramas para desarrollo paralelo:** Facilita crear branches para probar nuevas funciones sin afectar el código principal.
 4. **Seguridad e integridad:** Cada cambio está identificado por un hash criptográfico, evitando pérdida o corrupción de datos.
