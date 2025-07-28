@@ -289,6 +289,7 @@ Git es un sistema de control de versiones distribuido que permite gestionar camb
   - Buena comunicación para explicar fallos de forma clara y precisa
   - Saber usar Git para colaborar con el equipo
 
+**Fases del ciclo de trabajo de un Desarrollador QA**
 ![Mapa mental QA](mermaid-diagram-2025-07-28-083228.png)
 
 - **Relación con otros roles:**
