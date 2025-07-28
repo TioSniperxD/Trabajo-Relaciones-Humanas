@@ -289,6 +289,8 @@ Git es un sistema de control de versiones distribuido que permite gestionar camb
   - Buena comunicación para explicar fallos de forma clara y precisa
   - Saber usar Git para colaborar con el equipo
 
+![Mapa mental QA](mermaid-diagram-2025-07-28-083228.png)
+
 - **Relación con otros roles:**
   - *Backend:* se debe validar que los datos fluyan correctamente, las APIs respondan como deben y también que todo el sistema sea estable bajo diferentes escenarios.
   - *Frontend: * colaboran estrechamente para verificar que la interfaz web funcione correctamente, sea coherente con el diseño y funcione bien en lo diferentes navegadores y dispositivos.
